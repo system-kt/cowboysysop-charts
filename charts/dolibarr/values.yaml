@@ -39,7 +39,7 @@ image:
   repository: tuxgasy/dolibarr
 
   # Image tag
-  tag: 15.0.3
+  tag: 17.0.2
 
   # Image digest
   digest: ""
