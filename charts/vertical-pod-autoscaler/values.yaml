@@ -618,7 +618,7 @@ tests:
     repository: cowboysysop/pytest
 
     # Image tag
-    tag: 1.0.35
+    tag: 1.0.38
 
     # Image digest
     digest: ""
